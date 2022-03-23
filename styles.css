@@ -63,6 +63,7 @@ a:visited {
         display:block;
         text-align: center;
     }
+    
 }
 .card {
     /* border: 1px solid black; */
@@ -131,6 +132,13 @@ a:visited {
 .table td:nth-child(4){
     color: #86898f;
 }
+
+.table-responsive{
+    overflow-x: auto;
+
+}
+
+
 .form h2{
     text-align: center;
 }
